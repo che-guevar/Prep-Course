@@ -1,0 +1,26 @@
+En un archivo de texto separado que debes crear, 
+escribe explicando los siguientes conceptos 
+como si se lo estuviera explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+-Variables
+    Las variables son un lugar donde se puede guardar algo que despues volveremos a usar,
+    Ejemplo una variable seria como un cajon donde elegimos que guardar en el.
+
+-Strings
+    Un Strings es el texto que se utilisa en la programación este siempre va entre comillas simples ('') o 
+    dobles ("").
+
+-Funciones (argumentos, return)
+    Las funciones son un bloque de codigo (Codigo agrupado) el cual se va arrepetir muchas vez, para 
+    no reperir ese codigo creamos una funcion.
+        Los argumentos son los elementes con los que podemos interactuar con nuna funcion (Elementro pre-definidos)
+        El return es una declaracion para devolver los datos de la funcion (siempre que se especifique).         
+
+-Declaraciones if
+    If y Else son el control de una parte de codigo, segun que argumentos tengan se hara uno o el otro,
+    son como una ruta que se dibide en dos y dependiendo su argumento se va por una o otra.
+
+-Valores booleanos ( true, false)
+    Los booleanos son verdadero si es true y falso si es false, se pueden interpetar tambien true como 1
+    false como 0 o abierto y cerrado.
